@@ -6,7 +6,7 @@ module.exports = {
             filename: './dev.sqlite3'
         },
 
-        useNullAsDefault: true, // Defina esta opção como true
+        useNullAsDefault: true,
         migrations: {
             directory: './migrations',
         },
